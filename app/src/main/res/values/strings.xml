@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">ExamenApp</string>
     <string name="titulo">Android Development</string>
+    <string name="mexico">Mexico</string>
+    <string name="strBoton">Continuar</string>
+    <string name="espanol">Español</string>
+    <string name="ingles">Ingles</string>
+    <string name="frances">frances</string>
 </resources>
