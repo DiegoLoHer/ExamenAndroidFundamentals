@@ -1,2 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">ExamenApp</string>
+    <string name="titulo">Android Development</string>
+    <string name="mexico">Mexique</string>
+    <string name="strBoton">Continuer</string>
+    <string name="espanol">Espagnol</string>
+    <string name="ingles">Anglais</string>
+    <string name="frances">Français</string>
+</resources>
