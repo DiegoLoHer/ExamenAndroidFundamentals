@@ -21,9 +21,22 @@
         android:text="@string/mexico"
         android:gravity="center"
         android:textSize="50dp"/>
-    <Button
-        android:id="@+id/btnContinuar"
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/strBoton"/>
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnTexto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/texto"/>
+        <Button
+            android:id="@+id/btnContinuar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/strBoton"/>
+
+    </LinearLayout>
 </LinearLayout>
